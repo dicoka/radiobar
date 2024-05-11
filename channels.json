@@ -1,26 +1,50 @@
 {"channels": [
 	{
-		"title": "NPO Radio 1",
-		"url": "http://icecast.omroep.nl/radio1-bb-mp3"
+		"title": "SomaLive!",
+		"url": "https://ice6.somafm.com/live-128-mp3"
 	},
 	{
-		"title": "NPO Radio 2",
-		"url": "http://icecast.omroep.nl/radio2-bb-mp3"
+		"title": "Digitalis",
+		"url": "https://ice6.somafm.com/digitalis-128-mp3"
 	},
 	{
-		"title": "NPO 3FM",
-		"url": "http://icecast.omroep.nl/3fm-bb-mp3"
+		"title": "AntBChill",
+		"url": "https://s2-webradio.antenne.de/chillout/stream"
 	},
 	{
-		"title": "NPO Radio 4",
-		"url": "http://icecast.omroep.nl/radio4-bb-mp3"
+		"title": "R.SA",
+		"url": "https://streams.rsa-sachsen.de/100/mp3-192/streams.rsa-sachsen.de/"
 	},
 	{
-		"title": "NPO Radio 5",
-		"url": "http://icecast.omroep.nl/radio5-bb-mp3"
+		"title": "Synphaera",
+		"url": "https://ice4.somafm.com/synphaera-256-mp3"
 	},
 	{
-		"title": "BNR Nieuwsradio",
-		"url": "http://icecast-bnr.cdp.triple-it.nl/bnr_mp3_128_03"
+		"title": "SpaceSt",
+		"url": "https://ice6.somafm.com/spacestation-128-aac"
+	},
+	{
+		"title": "Fluid",
+		"url": "https://ice5.somafm.com/fluid-128-aac"
+	},
+	{
+		"title": "GS",
+		"url": "https://ice5.somafm.com/groovesalad-256-mp3"
+	},
+	{
+		"title": "GSC",
+		"url": "https://ice5.somafm.com/gsclassic-128-aac"
+	},
+	{
+		"title": "DefCon",
+		"url": "https://ice5.somafm.com/defcon-256-mp3"
+	},
+	{
+		"title": "TheTrip",
+		"url": "https://ice5.somafm.com/thetrip-128-aac"
+	},
+	{
+		"title": "PopTron",
+		"url": "https://ice5.somafm.com/poptron-128-aac"
 	}
 ]}
